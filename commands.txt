@@ -1,0 +1,2 @@
+Localisation de firmware localement :C:\ST\STM32Cube_FW_U5_V2.0.0-alpha.6.0
+Exemple de commande :gpio,B-U585I-IOT02A,IAR
